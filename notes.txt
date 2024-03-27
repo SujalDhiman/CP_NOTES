@@ -2,3 +2,4 @@ CODEFORCES-DIV2
 
 1)ARRAY_MERGING(875)
 2)Leetcode(1358)->string + sliding window + hashtable
+3)Longest Harmonic Subsequence - (Leetcode-594)

@@ -6,3 +6,4 @@ CODEFORCES-DIV2
 4)1248. Count Number of Nice Subarrays (BEST EXAMPLE OF SLIDING WINDOW + HASHTABLE)
 5)767 Reorganize a string (priority queue + hashmap) 
 6)1400 construct k pallindrome strings
+7)621 task scheduler

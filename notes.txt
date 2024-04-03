@@ -8,3 +8,4 @@ CODEFORCES-DIV2
 6)1400 construct k pallindrome strings
 7)621 task scheduler - > pending
 8)780 reaching points
+9)1781. Sum of Beauty of All Substrings

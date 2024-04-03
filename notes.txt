@@ -9,3 +9,4 @@ CODEFORCES-DIV2
 7)621 task scheduler - > pending
 8)780 reaching points
 9)1781. Sum of Beauty of All Substrings
+10)https://codeforces.com/problemset/problem/1632/B

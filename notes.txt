@@ -10,3 +10,4 @@ CODEFORCES-DIV2
 8)780 reaching points
 9)1781. Sum of Beauty of All Substrings
 10)https://codeforces.com/problemset/problem/1632/B
+11)https://leetcode.com/problems/brick-wall/description/

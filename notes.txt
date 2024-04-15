@@ -18,4 +18,5 @@ CODEFORCES-DIV2
 16)2491. Divide Players Into Teams of Equal Skill->based on sorting whenever you need to make pair such that their sums are same apply sorting and 2 pointer at 0 and len-1 idx and chk sum
 17)2592. Maximize Greatness of an Array-> based on sorting and logical thinking 2 pointer.
 18)1296. Divide Array in Sets of K Consecutive Numbers
-19)2542. Maximum Subsequence Score.
+19)2542. Maximum Subsequence Score. (priority_queue implementation when we need to maximise both constraints)
+

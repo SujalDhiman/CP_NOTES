@@ -15,3 +15,4 @@ CODEFORCES-DIV2
 13)https://leetcode.com/problems/max-chunks-to-make-sorted/description/
 14)1509. Minimum Difference Between Largest and Smallest Value in Three Moves
 15)1094. Car Pooling
+16)2491. Divide Players Into Teams of Equal Skill->based on sorting whenever you need to make pair such that their sums are same apply sorting and 2 pointer at 0 and len-1 idx and chk sum

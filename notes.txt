@@ -19,4 +19,4 @@ CODEFORCES-DIV2
 17)2592. Maximize Greatness of an Array-> based on sorting and logical thinking 2 pointer.
 18)1296. Divide Array in Sets of K Consecutive Numbers
 19)2542. Maximum Subsequence Score. (priority_queue implementation when we need to maximise both constraints)
-
+20)935. Knight Dialer

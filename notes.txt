@@ -22,3 +22,4 @@ CODEFORCES-DIV2
 20)935. Knight Dialer
 21)1010. Pairs of Songs With Total Durations Divisible by 60 (whenever divisible is there and we have to find pair  try to find those remainder whose sum is equal to the number from which we have to divide)
 22)2952. Minimum Number of Coins to be Added
+23)https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/description/ (NOT DONE)

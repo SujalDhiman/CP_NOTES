@@ -24,3 +24,6 @@ CODEFORCES-DIV2
 22)2952. Minimum Number of Coins to be Added
 23)https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/description/ (NOT DONE)
 24)2952. Minimum Number of Coins to be Added (NOT DONE)
+25)1792 (PENDING)
+26)752. Open the Lock (BFS BEST APPROACH GRAPHS
+)

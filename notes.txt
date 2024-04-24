@@ -27,3 +27,5 @@ CODEFORCES-DIV2
 25)1792 (PENDING)
 26)752. Open the Lock (BFS BEST APPROACH GRAPHS)
 27)MISSING COIN SUM-CSES
+28)https://leetcode.com/problems/maximum-average-pass-ratio/ (NOT DONE)
+29)leetcode 1775 (NOT DONE)

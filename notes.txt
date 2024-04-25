@@ -29,3 +29,4 @@ CODEFORCES-DIV2
 27)MISSING COIN SUM-CSES
 28)https://leetcode.com/problems/maximum-average-pass-ratio/ (NOT DONE)
 29)leetcode 1775 (NOT DONE)
+30)611. Valid Triangle Number

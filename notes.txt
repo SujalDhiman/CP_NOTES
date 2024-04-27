@@ -30,4 +30,4 @@ CODEFORCES-DIV2
 28)https://leetcode.com/problems/maximum-average-pass-ratio/ (NOT DONE)
 29)leetcode 1775 (NOT DONE)
 30)611. Valid Triangle Number (3 SUM)
-31)659. Split Array into Consecutive Subsequences(NEW ALGORITHM + TRAVERSING OVER MAP AND CONCEPT OF VACANCY MAP FOR SUBSEQUENCES)
+31)659. Split Array into Consecutive Subsequences(NEW ALGORITHM + TRAVERSING OVER MAP AND CONCEPT OF VACANCY MAP FOR SUBSEQUENCES IMP )

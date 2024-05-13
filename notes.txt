@@ -37,6 +37,8 @@ PROPERTIES OF XOR :-
 a^b=c
 a^c=b
 
+32)2131. Longest Palindrome by Concatenating Two Letter Words  (good question had to handle several base cases main logic is if every string reverse exists then push it in map and for same word string use the highest odd occuring string and then convert all odd to even and + add even)
+
 if we have k let suppose k=3 and if we have all powers from (1,2^k-1) i.e(1,2,4)  then we can make any value from 1-7. (IMP NOTE)
 
 32) OPTIMAL FLIP (CODECHEF)->(BASED ON SUFFIX AND PREFIX + MATHS + SLIDING WINDOW)

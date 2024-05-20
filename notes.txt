@@ -50,3 +50,4 @@ if we have k let suppose k=3 and if we have all powers from (1,2^k-1) i.e(1,2,4)
 
 35)1834. Single-Threaded CPU (BASED ON PRIORITY QUEUE and SORTING)
 36)2462. Total Cost to Hire K Workers (BASED ON 2 PRIORITY_QUEUES + THINKING ABOUT EDGE CASES)
+37)https://codeforces.com/problemset/problem/1899/C  (KADANES ALGORITHMS + 2 POINTER)

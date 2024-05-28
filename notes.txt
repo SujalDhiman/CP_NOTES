@@ -52,3 +52,5 @@ if we have k let suppose k=3 and if we have all powers from (1,2^k-1) i.e(1,2,4)
 36)2462. Total Cost to Hire K Workers (BASED ON 2 PRIORITY_QUEUES + THINKING ABOUT EDGE CASES)
 37)https://codeforces.com/problemset/problem/1899/C  (KADANES ALGORITHMS + 2 POINTER)
 38)https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/  (PARTITION DP EXAMPLE)
+39) DISTANT BARCODES , REORGANIZE A STRING BASED ON SAME LOGIC OF PRIORITY QUEUE
+40)TASK SCHEDULOR->NICE APPROACH REFER LEETCODE
